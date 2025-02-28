@@ -29,7 +29,7 @@
     <artifactId>shenyu-examples-motan-service</artifactId>
 
     <properties>
-        <zookeeper.version>3.7.2</zookeeper.version>
+        <zookeeper.version>3.8.4</zookeeper.version>
     </properties>
     
     <dependencies>
